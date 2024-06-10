@@ -1,0 +1,22 @@
+.input{
+    width: 300px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid grey;
+    margin: 5px;
+    padding: 5px;
+}
+
+.btn{
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid grey;
+    margin: 5px;
+    padding: 5px;
+}
+
+.qrcode{
+    display: flex;
+    justify-content: center;
+}
